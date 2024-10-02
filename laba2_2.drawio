@@ -10,7 +10,7 @@
         <mxCell id="dkb39gAjRPECLLB4XsNe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dkb39gAjRPECLLB4XsNe-1" target="dkb39gAjRPECLLB4XsNe-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dkb39gAjRPECLLB4XsNe-1" value="Оцінка стану рибних запасів&lt;br&gt;A1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="dkb39gAjRPECLLB4XsNe-1" value="Оцінка стану рибних запасів&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="100" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dkb39gAjRPECLLB4XsNe-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dkb39gAjRPECLLB4XsNe-2" target="dkb39gAjRPECLLB4XsNe-7">
@@ -19,13 +19,13 @@
         <mxCell id="dkb39gAjRPECLLB4XsNe-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dkb39gAjRPECLLB4XsNe-2" target="dkb39gAjRPECLLB4XsNe-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dkb39gAjRPECLLB4XsNe-2" value="Моніторинг виконання квот&lt;br&gt;А3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="dkb39gAjRPECLLB4XsNe-2" value="Моніторинг виконання квот&lt;br&gt;3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="455" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dkb39gAjRPECLLB4XsNe-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dkb39gAjRPECLLB4XsNe-4" target="dkb39gAjRPECLLB4XsNe-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dkb39gAjRPECLLB4XsNe-4" value="&amp;nbsp;Встановлення квот на вилов&lt;br&gt;A2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="dkb39gAjRPECLLB4XsNe-4" value="&amp;nbsp;Встановлення квот на вилов&lt;br&gt;2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="105" y="245" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dkb39gAjRPECLLB4XsNe-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dkb39gAjRPECLLB4XsNe-5" target="dkb39gAjRPECLLB4XsNe-8">
@@ -36,25 +36,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dkb39gAjRPECLLB4XsNe-5" value="&lt;p&gt;Прийняття запобіжних заходів&lt;/p&gt;&lt;p&gt;А4&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="dkb39gAjRPECLLB4XsNe-5" value="&lt;p&gt;Прийняття запобіжних заходів&lt;/p&gt;&lt;p&gt;4&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="800" y="455" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dkb39gAjRPECLLB4XsNe-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dkb39gAjRPECLLB4XsNe-6" target="dkb39gAjRPECLLB4XsNe-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dkb39gAjRPECLLB4XsNe-6" value="Дані про стан рибних запасів" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="dkb39gAjRPECLLB4XsNe-6" value="Дані про стан рибних запасів&lt;br&gt;D1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dkb39gAjRPECLLB4XsNe-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dkb39gAjRPECLLB4XsNe-7" target="dkb39gAjRPECLLB4XsNe-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dkb39gAjRPECLLB4XsNe-7" value="&amp;nbsp;Квоти на вилов" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="dkb39gAjRPECLLB4XsNe-7" value="&amp;nbsp;Квоти на вилов&lt;br&gt;D3" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dkb39gAjRPECLLB4XsNe-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dkb39gAjRPECLLB4XsNe-8" target="dkb39gAjRPECLLB4XsNe-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dkb39gAjRPECLLB4XsNe-8" value="Звіти про виконання квот" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="dkb39gAjRPECLLB4XsNe-8" value="Звіти про виконання квот&lt;br&gt;D2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dkb39gAjRPECLLB4XsNe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dkb39gAjRPECLLB4XsNe-11" target="dkb39gAjRPECLLB4XsNe-1">
