@@ -1,9 +1,342 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Страница — 1" id="MCvj6oWAHscRe0fjEDmr">
-    <mxGraphModel>
+    <mxGraphModel dx="3452" dy="1413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-1" value="&lt;div&gt;&lt;div&gt;Оцінка стану рибних запасів&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="199.13" as="sourcePoint" />
+            <mxPoint x="120" y="199.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="160" as="sourcePoint" />
+            <mxPoint x="120" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="130" as="sourcePoint" />
+            <mxPoint x="120" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-5" value="Наукові звіти ICES про стан рибних запасів." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="170" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-7" value="Дані від риболовних операторів про вилов&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="130" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-8" value="Моніторингові дані про екосистеми." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="100" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="10" as="sourcePoint" />
+            <mxPoint x="180.00000000000023" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-11" value="Регуляції ЄС щодо рибальства" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="10" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="10" as="sourcePoint" />
+            <mxPoint x="270" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-14" value="Вимоги CFP щодо екосистемного підходу." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-18" value="Оцінка стану кожного виду риб." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-19" value="Рекомендації для встановлення квот." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kb4GdaJpfkRZCUJfxJcu-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="1024.1738493546195" as="sourcePoint" />
+            <mxPoint x="180" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="1040" as="sourcePoint" />
+            <mxPoint x="270" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-22" value="Наукові групи ICES." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1040" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-23" value="Європейська Комісія." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1040" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-24" value="&lt;div&gt;&lt;div&gt;Оцінка стану рибних запасів&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="kb4GdaJpfkRZCUJfxJcu-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="400" as="sourcePoint" />
+            <mxPoint x="380" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-30" value="Попередні річні звіти про виконання квот" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="370" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="150" as="sourcePoint" />
+            <mxPoint x="1570" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kb4GdaJpfkRZCUJfxJcu-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="240" as="sourcePoint" />
+            <mxPoint x="560" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-34" value="Регуляції щодо максимального стійкого вилову (MSY)." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-35" value="Вимоги ЄС щодо збереження біорізноманіття." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="240" as="sourcePoint" />
+            <mxPoint x="550" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="kb4GdaJpfkRZCUJfxJcu-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="500" as="sourcePoint" />
+            <mxPoint x="480" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="500" />
+              <mxPoint x="430" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-41" value="Риболовні асоціації." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="1040" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="kb4GdaJpfkRZCUJfxJcu-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="430" as="sourcePoint" />
+            <mxPoint x="1570" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-47" value="Річні квоти на вилов для кожного виду риб" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="350" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-48" value="Публікація квот для операторів риболовлі." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="410" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="380" as="sourcePoint" />
+            <mxPoint x="1570" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.807;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kb4GdaJpfkRZCUJfxJcu-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="510" as="sourcePoint" />
+            <mxPoint x="1560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.121;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kb4GdaJpfkRZCUJfxJcu-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="361" y="1005" as="sourcePoint" />
+            <mxPoint x="520" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="545.68" />
+              <mxPoint x="520" y="546" />
+              <mxPoint x="520" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-57" value="&lt;div&gt;&lt;div&gt;Контроль виконання квот&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="570" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="kb4GdaJpfkRZCUJfxJcu-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="598" as="sourcePoint" />
+            <mxPoint x="530" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="648" as="sourcePoint" />
+            <mxPoint x="600" y="648" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-60" value="Операційні звіти від риболовних суден про вилов." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="570" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-61" value="Дані моніторингу риболовних операцій" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="620" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="kb4GdaJpfkRZCUJfxJcu-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="520" as="sourcePoint" />
+            <mxPoint x="480" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kb4GdaJpfkRZCUJfxJcu-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="480" as="sourcePoint" />
+            <mxPoint x="530" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-66" value="Правила CFP щодо моніторингу та дотримання квот." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="490" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-67" value="Санкції за порушення квот." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="490" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="480" as="sourcePoint" />
+            <mxPoint x="740" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-73" value="Звіт про фактичний вилов риби порівняно з квотами." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="570" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-74" value="Звіти про порушення квот та штрафи." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="630" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="600" as="sourcePoint" />
+            <mxPoint x="1560" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.807;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="659" as="sourcePoint" />
+            <mxPoint x="1570" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-77" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.09;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kb4GdaJpfkRZCUJfxJcu-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="720" as="sourcePoint" />
+            <mxPoint x="618.6000000000001" y="709.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="618" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-79" value="Національні органи контролю" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="700" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-80" value="Оператори риболовних суден." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="700" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.467;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="762.2" as="sourcePoint" />
+            <mxPoint x="660.4000000000001" y="680.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.467;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="762.2" as="sourcePoint" />
+            <mxPoint x="740.4000000000001" y="680.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-84" value="&lt;div&gt;&lt;div&gt;Контроль виконання квот&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="790" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-85" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="kb4GdaJpfkRZCUJfxJcu-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="660" as="sourcePoint" />
+            <mxPoint x="830" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="818" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-86" value="Наукові дані про критичний стан видів" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="840" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-87" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="kb4GdaJpfkRZCUJfxJcu-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-135" y="873" as="sourcePoint" />
+            <mxPoint x="605" y="868" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-90" value="Регуляції ЄС щодо скорочення вилову в разі падіння запасів." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-91" value="Рекомендації ICES про зниження вилову або припинення риболовлі на певні види." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="700" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-95" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.6;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kb4GdaJpfkRZCUJfxJcu-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="700" as="sourcePoint" />
+            <mxPoint x="1050" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-96" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.6;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="700" as="sourcePoint" />
+            <mxPoint x="1100" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-97" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="kb4GdaJpfkRZCUJfxJcu-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="900" as="sourcePoint" />
+            <mxPoint x="1560" y="818" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-98" value="Обмеження на вилов або заборона на певні види риб." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="790" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-99" value="План дій для відновлення запасів." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="850" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-101" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.825;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kb4GdaJpfkRZCUJfxJcu-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="900" as="sourcePoint" />
+            <mxPoint x="1560" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-102" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.354;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kb4GdaJpfkRZCUJfxJcu-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="960" as="sourcePoint" />
+            <mxPoint x="1000" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1001" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-103" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.555;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kb4GdaJpfkRZCUJfxJcu-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="1000" as="sourcePoint" />
+            <mxPoint x="770" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1041" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-105" value="Національні органи риболовства." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="930" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kb4GdaJpfkRZCUJfxJcu-106" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="kb4GdaJpfkRZCUJfxJcu-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="1000" as="sourcePoint" />
+            <mxPoint x="1100" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
