@@ -1,9 +1,154 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Сторінка-1" id="e7m-sRP357dFGC6WehCe">
-    <mxGraphModel>
+    <mxGraphModel dx="2261" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="180" width="480" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-8" value="Ends" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="222.5" width="200" height="375" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-9" value="Vision " style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-8">
+          <mxGeometry x="16.25" y="40" width="162.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-10" value="Сучасне аграрне підприємство, яке сприяє сталому розвитку сільського господарства&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-9">
+          <mxGeometry x="1.5" y="40" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-12" value="Goal" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-8">
+          <mxGeometry x="16.25" y="150" width="162.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-13" value="Збільшення частки на ринку органічної продукції до 30% протягом 5 років.&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-12">
+          <mxGeometry x="22" y="40" width="118.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-15" value="Objective" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-8">
+          <mxGeometry x="15" y="260" width="163.75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-17" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Впровадження точного землеробства для зниження витрат на 15% та підвищення врожайності&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-15">
+          <mxGeometry x="2.75" y="25" width="156.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="VEEelqnq1-XZX8AtCFIk-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="172.5" as="sourcePoint" />
+            <mxPoint y="172.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-20" value="Means" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="222.5" width="200" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-21" value="Mission " style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-20">
+          <mxGeometry x="16.25" y="40" width="163.75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-22" value="Забезпечення якісної сільськогосподарської продукції з урахуванням екологічних стандартів та інноваційних рішень." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-21">
+          <mxGeometry x="1.75" y="40" width="162" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-23" value="Strategy" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-20">
+          <mxGeometry x="15.63" y="150" width="163.75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-24" value="Інвестування в обладнання для автоматизації" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-23">
+          <mxGeometry x="22" y="40" width="118.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-25" value="Tactic" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-20">
+          <mxGeometry x="15" y="260" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-26" value="&lt;div style=&quot;&quot;&gt;Використання локальних постачальників для зниження логістичних витрат&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-25">
+          <mxGeometry x="2.75" y="25" width="156.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-2" value="Busines motivation model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-27" value="Directives" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="635" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-28" value="Policy " style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-27">
+          <mxGeometry x="16.25" y="40" width="162.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-29" value="Підтримка екологічних стандартів у всіх виробничих процесах" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-28">
+          <mxGeometry x="1.5" y="40" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-30" value="Business Rule" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-27">
+          <mxGeometry x="16.25" y="150" width="162.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-31" value="Усі продукти мають відповідати сертифікації органічної продукції." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-30">
+          <mxGeometry x="22" y="40" width="118.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-38" value="Influencers " style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="630" width="200" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-39" value="Internal Influencer  " style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-38">
+          <mxGeometry x="16.25" y="40" width="162.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-40" value="Рівень кваліфікації співробітників." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-39">
+          <mxGeometry x="1.5" y="40" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-41" value="External Influencer " style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-38">
+          <mxGeometry x="16.25" y="150" width="162.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-42" value="Попит на органічну продукцію на ринку." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-41">
+          <mxGeometry x="22" y="40" width="118.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VEEelqnq1-XZX8AtCFIk-38" target="VEEelqnq1-XZX8AtCFIk-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-770" y="660" as="sourcePoint" />
+            <mxPoint x="-720" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-55" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VEEelqnq1-XZX8AtCFIk-8" target="VEEelqnq1-XZX8AtCFIk-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-420" y="620" as="sourcePoint" />
+            <mxPoint x="-390" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-58" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="180" width="200" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-59" value=" Referenced Elements" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="192.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-60" value="Organization Unit" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="222.5" width="160" height="207.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-67" value="відділ точного землеробства" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-60">
+          <mxGeometry x="20" y="45.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-68" value="фінансовий відділ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-69" value="Business Process" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="452.5" width="160" height="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-70" value=" виробництво," style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-69">
+          <mxGeometry x="20" y="30" width="120" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-72" value=" продажі" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-69">
+          <mxGeometry x="20" y="127.5" width="120" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-71" value=" логістика" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-69">
+          <mxGeometry x="20" y="80" width="120" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-73" value="Business Rule" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="635" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-74" value="&lt;div&gt;контроль якості та сертифікація продукції.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="VEEelqnq1-XZX8AtCFIk-73">
+          <mxGeometry x="20" y="35" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-78" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VEEelqnq1-XZX8AtCFIk-30" target="VEEelqnq1-XZX8AtCFIk-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="890" as="sourcePoint" />
+            <mxPoint x="-150" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-260" y="830" />
+              <mxPoint x="-260" y="703" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VEEelqnq1-XZX8AtCFIk-79" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-296" y="410" as="sourcePoint" />
+            <mxPoint x="-250" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
